@@ -86,7 +86,7 @@ with dai.Device(pipeline) as device:
 
 
     while True:
-        time.sleep(1)
+        time.sleep(0.1)
         ctrl = dai.CameraControl()
         ctrl.setCaptureStill(True)
         controlQueue.send(ctrl)
