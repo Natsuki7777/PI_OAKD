@@ -1,2 +1,2 @@
 # PI_OAKD
-Script for raspberry pi using oak-d
+Script for capturing images with raspberry pi using oak-d
